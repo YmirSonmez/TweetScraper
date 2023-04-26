@@ -7,7 +7,7 @@ A Python script for scraping tweets from Twitter profiles using Selenium and Bea
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your_username/selenium-twitter-scraper.git
+git clone https://github.com/YmirSonmez/TweetScraper.git
 ```
 
 2. Install the required packages.
